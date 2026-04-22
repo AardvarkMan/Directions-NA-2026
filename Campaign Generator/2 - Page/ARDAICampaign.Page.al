@@ -58,7 +58,7 @@ page 50201 ARD_AICampaign
     }
     actions
     {
-        area(Prompting)
+        area(Processing)
         {
             Action(GenerateCampaignRegion)
             {
